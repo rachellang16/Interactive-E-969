@@ -1,0 +1,10 @@
+.Button {
+    background-color: #062741;
+    border: 1px solid #062741;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;}
